@@ -1,3 +1,3 @@
 # Heart-Disease-Prediction
 A project that predicts whether a person is suffering from heart disease or not.
-This is a baisc heart disease prediction model.
+This is a baisc heart disease prediction model (as a part of the practice machine learning series).
